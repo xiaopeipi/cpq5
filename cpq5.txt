@@ -16,5 +16,5 @@ int main()
            {
              count++;
             printf("%d ",i);
-           }
+           
  }
